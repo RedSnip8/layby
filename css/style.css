@@ -1,0 +1,56 @@
+body {
+  background: #a1c3d1;
+  color: #f0ebf4;
+}
+
+.navbar {
+  background: #b39bc8;
+  border-bottom: #e64398 3px solid;
+  opacity: 0.8;
+}
+
+#home-section {
+  background: url(../img/velizar-ivanov-rbBfl8Ls8-c-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 700px;
+}
+
+#home-section .dark-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 760px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+#home-section .home-inner {
+  padding-top: 150px;
+}
+
+#home-section .card-form {
+  opacity: 0.9;
+}
+
+#home-section .card {
+  background-color: #f172a1;
+}
+
+#home-section .form-control {
+  background-color: #f0ebf4;
+}
+
+#home-section .btn-light {
+  background: #b39bc8;
+  border-color: #e64398;
+  color: #f0ebf4;
+}
+
+#home-section .fas {
+  color: #f172a1;
+  background: #f0ebf4;
+  padding: 5px;
+  border-radius: 5px;
+}
