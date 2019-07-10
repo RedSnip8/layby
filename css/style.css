@@ -54,3 +54,15 @@ body {
   padding: 5px;
   border-radius: 5px;
 }
+
+#explore-head {
+  background-color: #b39bc8;
+}
+
+#explore-section .fas,
+#share-section .fas {
+  background: #b39bc8;
+  color: #f0ebf4;
+  padding: 5px;
+  border-radius: 5px;
+}
