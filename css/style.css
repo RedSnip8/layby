@@ -6,7 +6,7 @@ body {
 .navbar {
   background: #b39bc8;
   border-bottom: #e64398 3px solid;
-  opacity: 0.8;
+  color: #f0ebf4;
 }
 
 #home-section {
@@ -19,11 +19,11 @@ body {
 
 #home-section .dark-overlay {
   position: absolute;
-  top: 0;
+  top: 20;
   left: 0;
   width: 100%;
-  min-height: 760px;
-  background-color: rgba(0, 0, 0, 0.5);
+  min-height: 700px;
+  background-color: rgba(0, 0, 0, 0.7);
 }
 
 #home-section .home-inner {
@@ -57,6 +57,12 @@ body {
 
 #explore-head {
   background-color: #b39bc8;
+  color: #f0ebf4;
+}
+
+#explore-section,
+#share-section {
+  background-color: #f0ebf4;
 }
 
 #explore-section .fas,
@@ -65,4 +71,26 @@ body {
   color: #f0ebf4;
   padding: 5px;
   border-radius: 5px;
+}
+
+#create-head {
+  background-color: #e64398;
+  color: #f0ebf4;
+}
+
+#create-section {
+  background: #ad2e95;
+  color: #f0ebf4;
+}
+
+#create-section .fas {
+  background: #b39bc8;
+  color: #f0ebf4;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+#share-head {
+  background-color: #f172a1;
+  color: #f0ebf4;
 }
