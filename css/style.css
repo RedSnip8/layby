@@ -94,3 +94,13 @@ body {
   background-color: #f172a1;
   color: #f0ebf4;
 }
+
+#main-footer {
+  background: #b39bc8;
+  color: #f0ebf4;
+}
+
+#main-footer .btn {
+  background: #a1c3d1;
+  color: #f172a1;
+}
