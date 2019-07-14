@@ -104,3 +104,8 @@ body {
   background: #a1c3d1;
   color: #f172a1;
 }
+
+#contactModal .btn {
+  background: #f172a1;
+  color: #f0ebf4;
+}
